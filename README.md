@@ -45,3 +45,29 @@ To view this project locally:
    git clone https://github.com/Dev-Mahek/my-third-website.git
 2. Open index.html in your browser.
 3. Explore and tweak as you like!
+
+---
+
+💡 What’s Next / Future Improvements
+
+Here are a few ideas I plan to work on:
+
+Add more pages (About, Contact, etc.)
+
+Improve animations or transitions
+
+Better mobile menu / interactive navbar
+
+Optimize images & performance
+
+---
+
+🤝 Contributing
+
+Feel free to open issues or submit pull requests. Feedback, suggestions, or improvements are always welcome!
+
+---
+
+📄 License
+
+This project is licensed under the MIT License. See the LICENSE
