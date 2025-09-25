@@ -32,6 +32,8 @@ gsap.to(".fleftelem", {
 
 let sections = document.querySelectorAll(".fleftelem");
 Shery.imageEffect(".images", {
+/*Need to change the effect inface thia whole section 🤔👇because right we are getting
+  a negative image efect which dose t looks good at all*/
   style: 1,
   //   config: { onMouse: { value: 1 } },
   slideStyle: (setScroll) => {
@@ -53,3 +55,4 @@ Shery.imageEffect(".images", {
     });
   },
 });
+
