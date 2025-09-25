@@ -1,12 +1,17 @@
 # 🌐 My Third Website
 
-<img width="1349" height="683" alt="3 2" src="https://github.com/user-attachments/assets/2a8fa9c2-1b2c-4d19-a6e8-e823b05cad34" />
-
+<p align="center">
+  <img width="1349" height="683" alt="3 2" src="https://github.com/user-attachments/assets/2a8fa9c2-1b2c-4d19-a6e8-e823b05cad34" width="700"/>
+</p>
 
 It’s not your typical simple website — it’s a bit **unique**, and you’ll know exactly what I mean once you open it. 😉  
 I’ve added various **interactive animations** to make the experience fun and engaging. For example, a **white ball follows your cursor** throughout the site, and when you hover over the **main heading on the landing page**, you’ll see a **cool video running through transparent text**. And that’s just the beginning — there’s a lot more to explore! 😁  
 
 This website is built using **HTML5, CSS3, JavaScript, GSAP, and Shery.js**, blending smooth animations with modern interactivity for a cool, dynamic experience.
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
@@ -36,7 +41,9 @@ my-third-website/
 ---
 
 ## ✨ What's Inside / Features
+
 ![demo3](https://github.com/user-attachments/assets/4870d799-b955-4437-95db-b42d504ee27a)
+
 - 🎨 **Hover Effects** – Smooth hover animations on the navigation bar, text, and other elements for an interactive feel.  
 - ⚡ **Snappy Scrolling** – A fast and fluid scrolling experience that keeps the site lively.  
 - 🎭 **Unique Page 2 Animation** – Scroll past the landing page and you’ll encounter a **surprise animation** powered by **Shery.js**. Trust me, you won’t expect it 😁.  
@@ -68,6 +75,8 @@ This project is still evolving, and I plan to add more exciting features and pol
 - 🌍 Deploying with a live link so everyone can explore it directly  
 
 > ⚠️ Note: Sometimes I’ve noticed a **slight laggy experience** while browsing the website. I’m still investigating whether this is due to my system or something in the animation scripts. Feedback from others would be super helpful!
+
+[🌐 Live Demo](https://your-demo-link.com)
 
 ---
 
