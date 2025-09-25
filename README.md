@@ -1,14 +1,19 @@
-# My Third Website
+# 🌐 My Portfolio Website
 
-A clean, simple, responsive website built with HTML, CSS, and JavaScript. This is my third web project, focusing on layout, design, and interactivity.
+It’s not your typical simple website — it’s a bit **unique**, and you’ll know exactly what I mean once you open it. 😉  
+I’ve added various **interactive animations** to make the experience fun and engaging. For example, a **white ball follows your cursor** throughout the site, and when you hover over the **main heading on the landing page**, you’ll see a **cool video running through transparent text**. And that’s just the beginning — there’s a lot more to explore! 😁  
+
+This website is built using **HTML5, CSS3, JavaScript, GSAP, and Shery.js**, blending smooth animations with modern interactivity for a cool, dynamic experience.
 
 ---
 
-## 🛠 Technologies Used
+## 🛠️ Technologies Used
 
-- **HTML5** – Structure and semantics  
-- **CSS3** – Styling, responsive design  
-- **JavaScript** – Interactivity  
+- **HTML5** – For the website structure and semantic layout  
+- **CSS3** – For styling, responsiveness, and creative animations  
+- **JavaScript (Vanilla JS)** – To add interactivity and logic  
+- **GSAP (GreenSock Animation Platform)** – For smooth, professional-grade animations and transitions  
+- **Shery.js** – For advanced interactive effects and cool visual elements
 
 ---
 
@@ -27,12 +32,12 @@ my-third-website/
 
 ---
 
-## 🎯 What’s Inside / Features
+## ✨ What's Inside / Features
 
-- Clean, well-organized layout  
-- Responsive design for desktop & mobile  
-- Interactive elements (buttons, possibly navigation, etc.)  
-- Custom styling and media queries  
+- 🎨 **Hover Effects** – Smooth hover animations on the navigation bar, text, and other elements for an interactive feel.  
+- ⚡ **Snappy Scrolling** – A fast and fluid scrolling experience that keeps the site lively.  
+- 🎭 **Unique Page 2 Animation** – Scroll past the landing page and you’ll encounter a **surprise animation** powered by **Shery.js**. Trust me, you won’t expect it 😁.  
+- 🌀 **Dynamic Interactivity** – The combination of GSAP and Shery.js brings the whole site to life with cool, fluid animations.
 
 ---
 
@@ -48,17 +53,18 @@ To view this project locally:
 
 ---
 
-💡 What’s Next / Future Improvements
+## 🚀 What's Next / Future Improvements
 
-Here are a few ideas I plan to work on:
+This project is still evolving, and I plan to add more exciting features and polish it further. Some upcoming improvements include:
 
-Add more pages (About, Contact, etc.)
+- 🖼️ Adding more creative animations and interactive sections  
+- 📱 Making the website fully **responsive** (currently it’s not mobile-friendly, so open it on your phone at your own risk 😅)  
+- ⚡ Optimizing performance for smoother experience across all devices  
+- 🏎️ Improving loading speed and reducing animation lag  
+- 🔧 Refactoring code for better scalability and maintainability  
+- 🌍 Deploying with a live link so everyone can explore it directly  
 
-Improve animations or transitions
-
-Better mobile menu / interactive navbar
-
-Optimize images & performance
+> ⚠️ Note: Sometimes I’ve noticed a **slight laggy experience** while browsing the website. I’m still investigating whether this is due to my system or something in the animation scripts. Feedback from others would be super helpful!
 
 ---
 
