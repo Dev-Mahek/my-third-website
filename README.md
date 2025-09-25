@@ -1,5 +1,7 @@
 # 🌐 My Third Website
 
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/26b80822-838d-4dcd-88b5-beea0524c532)
+
 It’s not your typical simple website — it’s a bit **unique**, and you’ll know exactly what I mean once you open it. 😉  
 I’ve added various **interactive animations** to make the experience fun and engaging. For example, a **white ball follows your cursor** throughout the site, and when you hover over the **main heading on the landing page**, you’ll see a **cool video running through transparent text**. And that’s just the beginning — there’s a lot more to explore! 😁  
 
