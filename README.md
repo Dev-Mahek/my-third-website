@@ -1,6 +1,6 @@
 # 🌐 My Third Website
 
-![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/26b80822-838d-4dcd-88b5-beea0524c532)
+![demoimg](https://github.com/user-attachments/assets/608c9b6e-8176-48ef-99b9-beef73c00d28)
 
 It’s not your typical simple website — it’s a bit **unique**, and you’ll know exactly what I mean once you open it. 😉  
 I’ve added various **interactive animations** to make the experience fun and engaging. For example, a **white ball follows your cursor** throughout the site, and when you hover over the **main heading on the landing page**, you’ll see a **cool video running through transparent text**. And that’s just the beginning — there’s a lot more to explore! 😁  
@@ -35,7 +35,7 @@ my-third-website/
 ---
 
 ## ✨ What's Inside / Features
-
+![demo3](https://github.com/user-attachments/assets/4870d799-b955-4437-95db-b42d504ee27a)
 - 🎨 **Hover Effects** – Smooth hover animations on the navigation bar, text, and other elements for an interactive feel.  
 - ⚡ **Snappy Scrolling** – A fast and fluid scrolling experience that keeps the site lively.  
 - 🎭 **Unique Page 2 Animation** – Scroll past the landing page and you’ll encounter a **surprise animation** powered by **Shery.js**. Trust me, you won’t expect it 😁.  
